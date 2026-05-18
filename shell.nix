@@ -58,6 +58,7 @@ pkgs.mkShell {
       python312
       python312Packages.pip
       python312Packages.virtualenv
+      python312Packages.tkinter
     ]
     ++ runtimeLibs;
 

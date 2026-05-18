@@ -2,3 +2,5 @@ yolo26n.pt
 yolov8n.pt
 data/rtsd-yolo/
 runs/
+outputs/
+src/__pycache__/
